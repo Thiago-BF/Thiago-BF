@@ -1,4 +1,4 @@
-## Hi there Thiago Beber Feil 👋
+## Hi I am Thiago Beber Feil 👋
 
 <!--
 **Thiago-BF/Thiago-BF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
