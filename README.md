@@ -59,8 +59,3 @@ Soy un estudiante avanzado de la Licenciatura en Sistemas de la Universidad Sigl
    </a>
 </p>
 
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/Thiago-BF" alt = "Snake Game"/>
-</p>
